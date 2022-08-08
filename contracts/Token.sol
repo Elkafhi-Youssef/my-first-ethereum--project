@@ -5,7 +5,7 @@ import "hardhat/console.sol";
 
 contract Token {
   string public name = "Elkafhi YOUSSEF TOKEN";
-  string public symbol = "NDT";
+  string public symbol = "YSY";
   uint public totalSupply = 1000000;
   address public owner;
   mapping(address => uint) balances;
