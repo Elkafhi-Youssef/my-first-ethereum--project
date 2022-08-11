@@ -1,6 +1,10 @@
 {
-  "name": "wave-app",
-  "version": "0.0.0",
+  "name": "web3 dapp",
+  "author": "elkafhi youssef",
+  "email": "elkafhiyoussef@gmail.com",
+  "license": "MIT",
+  "version": "0.0.1",
+  "private": true,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
