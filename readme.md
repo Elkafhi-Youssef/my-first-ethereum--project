@@ -32,3 +32,5 @@ yarn
 ```
 
 4. Go to metamasck and slecte the Ropsten network
+
+5. Go to https://faucet.egorfine.com/ and then paste your wallet to get some free eth 
